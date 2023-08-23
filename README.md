@@ -13,16 +13,16 @@ Depression is a widespread mental health concern that affects millions of people
 
 # OUR APPROACH 
 
-### Data Collection From User
-### Pre Processing
-#### Tokenization
-#### Stemming
-#### Lemmatization
-#### Stop Word Removal 
-#### Punctuation Removal
-### Analyzing Data
-### User Friendly Interface
-### Assistance if Required
+## Data Collection From User
+## Pre Processing
+## Tokenization
+## Stemming
+## Lemmatization
+## Stop Word Removal 
+## Punctuation Removal
+## Analyzing Data
+## User Friendly Interface
+## Assistance if Required
 
 
 - [x] Random Forest Classification --> 93%
